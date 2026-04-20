@@ -160,4 +160,4 @@ MIT. Use it, fork it, build on it.
 
 ---
 
-*Built by [Jay Burgess](https://github.com/) — Principal AI Systems Architect. This repo is a sanitized, domain-agnostic reference distilled from production agentic compliance work.*
+*Built by [Jay Burgess](https://github.com/jayburgessjr) — Principal AI Systems Architect. This repo is a sanitized, domain-agnostic reference distilled from production agentic compliance work.*
